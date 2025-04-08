@@ -1,4 +1,4 @@
-# Blinkit-PowerBI
+# Blinkit-PowerBI-Dashboard
 Analyze the sales of Blinkit using PowerBI dashboard
 .Analyze the Blinkit total profit.
 .Product Category.
